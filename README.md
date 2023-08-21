@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 How to reach me: ce.cecs01@gmail.com
+- 😄 Pronouns: he/him
+
+
+DevOps Engineer at Eureka software
